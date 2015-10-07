@@ -3,7 +3,7 @@
 **Jool colored like Jupiter**
 
 
-KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/112095
+KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/136103
 
 Download Latest Release: https://github.com/Sigma88/Sigma-JoolRecolor/releases/latest
 
