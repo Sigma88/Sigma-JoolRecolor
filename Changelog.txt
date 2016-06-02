@@ -1,3 +1,9 @@
+**v1.2.1**
+
+- Updated to KSP 1.1.2
+- Updated to Kopernicus 1.0.4
+
+
 **v1.2.0**
 
 - Added compatibility with EVE clouds
